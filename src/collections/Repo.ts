@@ -20,7 +20,7 @@ export const Repo: CollectionConfig = {
 	],
 	versions: {
 		drafts: {
-			localizeStatus: true,
+			localizeStatus: true, // Comment this line can fix the text
 		},
 		maxPerDoc: 0,
 	},
