@@ -37,7 +37,7 @@ export default buildConfig({
     locales: ['en', 'zh'],
     defaultLocale: 'en',
   },
-  // experimental: {
-  //   localizeStatus: true,
-  // },
+  experimental: {
+    localizeStatus: true,
+  },
 })
